@@ -41,6 +41,11 @@ jobs:
       - name: Build JavaScript
         run: npm run build
 
+      - name: Verify JavaScript build
+        run: |
+          echo "=== assets/js/dist ==="
+          find assets/js/dist -type f
+
       - name: Build Site
         run: bundle exec jekyll b -d "_site"
         env:
