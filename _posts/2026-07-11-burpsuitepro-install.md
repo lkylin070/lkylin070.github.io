@@ -1,4 +1,4 @@
-# burpsuitepro-install
+# burpsuite专业版安装
 
 ### 准备工作
 
