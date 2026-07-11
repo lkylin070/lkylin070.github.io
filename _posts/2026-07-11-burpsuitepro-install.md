@@ -43,7 +43,7 @@ mv ~/Desktop/BurpKeygenCN.jar /opt/BurpSuite
 
 ![image-20260711194118489](https://cdn.jsdelivr.net/gh/lkylin070/blogimage@main/img/image-20260711194118489.png)
 
-**点击手东激活（ps：如果是最新版本，在左下角可以找到手动激活）**
+**点击手动激活（ps：如果是最新版本，在左下角可以找到手动激活）**
 
 ![image-20260711194342443](https://cdn.jsdelivr.net/gh/lkylin070/blogimage@main/img/image-20260711194342443.png)
 
