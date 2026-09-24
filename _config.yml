@@ -22,7 +22,7 @@ description: >- # used by seo meta and the atom feed
   Record what should be recorded.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://lkylin070.github.io"
+url: "https://blog.cilin.top"
 
 github:
   username: lkylin070 # change to your GitHub username
